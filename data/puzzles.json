@@ -1,0 +1,465 @@
+{
+  "generated_at": "2026-05-15T16:24:52Z",
+  "word_list_size": 3903,
+  "count": 30,
+  "puzzles": [
+    {
+      "start": "COLD",
+      "end": "WARM",
+      "par": 4,
+      "subtitle": "Temperature shift",
+      "optimal_path": [
+        "COLD",
+        "WOLD",
+        "WORD",
+        "WARD",
+        "WARM"
+      ],
+      "id": 1,
+      "date": "2026-05-15"
+    },
+    {
+      "start": "LEAD",
+      "end": "GOLD",
+      "par": 3,
+      "subtitle": "Alchemist's dream",
+      "optimal_path": [
+        "LEAD",
+        "LOAD",
+        "GOAD",
+        "GOLD"
+      ],
+      "id": 2,
+      "date": "2026-05-16"
+    },
+    {
+      "start": "HATE",
+      "end": "LOVE",
+      "par": 3,
+      "subtitle": "Full circle",
+      "optimal_path": [
+        "HATE",
+        "LATE",
+        "LAVE",
+        "LOVE"
+      ],
+      "id": 3,
+      "date": "2026-05-17"
+    },
+    {
+      "start": "FIRE",
+      "end": "FISH",
+      "par": 4,
+      "subtitle": "Different elements",
+      "optimal_path": [
+        "FIRE",
+        "WIRE",
+        "WISE",
+        "WISH",
+        "FISH"
+      ],
+      "id": 4,
+      "date": "2026-05-18"
+    },
+    {
+      "start": "HAND",
+      "end": "FOOT",
+      "par": 5,
+      "subtitle": "Body parts",
+      "optimal_path": [
+        "HAND",
+        "BAND",
+        "BOND",
+        "FOND",
+        "FOOD",
+        "FOOT"
+      ],
+      "id": 5,
+      "date": "2026-05-19"
+    },
+    {
+      "start": "RAIN",
+      "end": "SNOW",
+      "par": 6,
+      "subtitle": "Weather change",
+      "optimal_path": [
+        "RAIN",
+        "CAIN",
+        "CHIN",
+        "CHON",
+        "CHOW",
+        "SHOW",
+        "SNOW"
+      ],
+      "id": 6,
+      "date": "2026-05-20"
+    },
+    {
+      "start": "FAST",
+      "end": "SLOW",
+      "par": 6,
+      "subtitle": "Change of pace",
+      "optimal_path": [
+        "FAST",
+        "CAST",
+        "COST",
+        "COOT",
+        "SOOT",
+        "SLOT",
+        "SLOW"
+      ],
+      "id": 7,
+      "date": "2026-05-21"
+    },
+    {
+      "start": "HARD",
+      "end": "SOFT",
+      "par": 4,
+      "subtitle": "Texture shift",
+      "optimal_path": [
+        "HARD",
+        "SARD",
+        "SORD",
+        "SORT",
+        "SOFT"
+      ],
+      "id": 8,
+      "date": "2026-05-22"
+    },
+    {
+      "start": "WORK",
+      "end": "PLAY",
+      "par": 6,
+      "subtitle": "Day off",
+      "optimal_path": [
+        "WORK",
+        "FORK",
+        "FORM",
+        "FOAM",
+        "FLAM",
+        "FLAY",
+        "PLAY"
+      ],
+      "id": 9,
+      "date": "2026-05-23"
+    },
+    {
+      "start": "BORN",
+      "end": "DEAD",
+      "par": 5,
+      "subtitle": "Life cycle",
+      "optimal_path": [
+        "BORN",
+        "BORT",
+        "BOAT",
+        "BEAT",
+        "BEAD",
+        "DEAD"
+      ],
+      "id": 10,
+      "date": "2026-05-24"
+    },
+    {
+      "start": "CATS",
+      "end": "DOGS",
+      "par": 3,
+      "subtitle": "Classic rivals",
+      "optimal_path": [
+        "CATS",
+        "COTS",
+        "DOTS",
+        "DOGS"
+      ],
+      "id": 11,
+      "date": "2026-05-25"
+    },
+    {
+      "start": "CHAT",
+      "end": "FLAT",
+      "par": 3,
+      "subtitle": "Level it out",
+      "optimal_path": [
+        "CHAT",
+        "PHAT",
+        "PLAT",
+        "FLAT"
+      ],
+      "id": 12,
+      "date": "2026-05-26"
+    },
+    {
+      "start": "HEAT",
+      "end": "COLD",
+      "par": 4,
+      "subtitle": "Cooling down",
+      "optimal_path": [
+        "HEAT",
+        "HEAD",
+        "HELD",
+        "HOLD",
+        "COLD"
+      ],
+      "id": 13,
+      "date": "2026-05-27"
+    },
+    {
+      "start": "DUSK",
+      "end": "DAWN",
+      "par": 4,
+      "subtitle": "Night watch",
+      "optimal_path": [
+        "DUSK",
+        "DUNK",
+        "DANK",
+        "DAWK",
+        "DAWN"
+      ],
+      "id": 14,
+      "date": "2026-05-28"
+    },
+    {
+      "start": "HILL",
+      "end": "VALE",
+      "par": 3,
+      "subtitle": "Valley view",
+      "optimal_path": [
+        "HILL",
+        "VILL",
+        "VILE",
+        "VALE"
+      ],
+      "id": 15,
+      "date": "2026-05-29"
+    },
+    {
+      "start": "OPEN",
+      "end": "SHUT",
+      "par": 6,
+      "subtitle": "Closing time",
+      "optimal_path": [
+        "OPEN",
+        "OPED",
+        "SPED",
+        "SHED",
+        "SHAD",
+        "SHAT",
+        "SHUT"
+      ],
+      "id": 16,
+      "date": "2026-05-30"
+    },
+    {
+      "start": "RISE",
+      "end": "FALL",
+      "par": 4,
+      "subtitle": "What goes up",
+      "optimal_path": [
+        "RISE",
+        "RILE",
+        "FILE",
+        "FILL",
+        "FALL"
+      ],
+      "id": 17,
+      "date": "2026-05-31"
+    },
+    {
+      "start": "LOUD",
+      "end": "SOFT",
+      "par": 3,
+      "subtitle": "Turn it down",
+      "optimal_path": [
+        "LOUD",
+        "LOUT",
+        "LOFT",
+        "SOFT"
+      ],
+      "id": 18,
+      "date": "2026-06-01"
+    },
+    {
+      "start": "MILK",
+      "end": "BEER",
+      "par": 5,
+      "subtitle": "Happy hour",
+      "optimal_path": [
+        "MILK",
+        "BILK",
+        "BIRK",
+        "BIRR",
+        "BIER",
+        "BEER"
+      ],
+      "id": 19,
+      "date": "2026-06-02"
+    },
+    {
+      "start": "LOSS",
+      "end": "GAIN",
+      "par": 5,
+      "subtitle": "Back in profit",
+      "optimal_path": [
+        "LOSS",
+        "LASS",
+        "LAWS",
+        "LAWN",
+        "LAIN",
+        "GAIN"
+      ],
+      "id": 20,
+      "date": "2026-06-03"
+    },
+    {
+      "start": "LEAP",
+      "end": "FALL",
+      "par": 4,
+      "subtitle": "Down you go",
+      "optimal_path": [
+        "LEAP",
+        "LEAL",
+        "FEAL",
+        "FELL",
+        "FALL"
+      ],
+      "id": 21,
+      "date": "2026-06-04"
+    },
+    {
+      "start": "GIVE",
+      "end": "TAKE",
+      "par": 4,
+      "subtitle": "Fair exchange",
+      "optimal_path": [
+        "GIVE",
+        "DIVE",
+        "DIKE",
+        "TIKE",
+        "TAKE"
+      ],
+      "id": 22,
+      "date": "2026-06-05"
+    },
+    {
+      "start": "HEAD",
+      "end": "TAIL",
+      "par": 4,
+      "subtitle": "Coin toss",
+      "optimal_path": [
+        "HEAD",
+        "HEAL",
+        "HEIL",
+        "HAIL",
+        "TAIL"
+      ],
+      "id": 23,
+      "date": "2026-06-06"
+    },
+    {
+      "start": "DAWN",
+      "end": "DUSK",
+      "par": 4,
+      "subtitle": "Day's bookends",
+      "optimal_path": [
+        "DAWN",
+        "DAWK",
+        "DANK",
+        "DUNK",
+        "DUSK"
+      ],
+      "id": 24,
+      "date": "2026-06-07"
+    },
+    {
+      "start": "PEAK",
+      "end": "VALE",
+      "par": 5,
+      "subtitle": "Summit and valley",
+      "optimal_path": [
+        "PEAK",
+        "PEAT",
+        "PELT",
+        "PELE",
+        "PALE",
+        "VALE"
+      ],
+      "id": 25,
+      "date": "2026-06-08"
+    },
+    {
+      "start": "COAL",
+      "end": "FIRE",
+      "par": 5,
+      "subtitle": "Burning bright",
+      "optimal_path": [
+        "COAL",
+        "FOAL",
+        "FOAM",
+        "FORM",
+        "FIRM",
+        "FIRE"
+      ],
+      "id": 26,
+      "date": "2026-06-09"
+    },
+    {
+      "start": "CAVE",
+      "end": "MINE",
+      "par": 3,
+      "subtitle": "Underground",
+      "optimal_path": [
+        "CAVE",
+        "CANE",
+        "MANE",
+        "MINE"
+      ],
+      "id": 27,
+      "date": "2026-06-10"
+    },
+    {
+      "start": "DOOR",
+      "end": "LOCK",
+      "par": 4,
+      "subtitle": "Secured",
+      "optimal_path": [
+        "DOOR",
+        "BOOR",
+        "BOOK",
+        "BOCK",
+        "LOCK"
+      ],
+      "id": 28,
+      "date": "2026-06-11"
+    },
+    {
+      "start": "BARK",
+      "end": "BITE",
+      "par": 3,
+      "subtitle": "All talk",
+      "optimal_path": [
+        "BARK",
+        "BARE",
+        "BATE",
+        "BITE"
+      ],
+      "id": 29,
+      "date": "2026-06-12"
+    },
+    {
+      "start": "SPIN",
+      "end": "WING",
+      "par": 6,
+      "subtitle": "Take flight",
+      "optimal_path": [
+        "SPIN",
+        "SAIN",
+        "SAID",
+        "SAND",
+        "WAND",
+        "WIND",
+        "WING"
+      ],
+      "id": 30,
+      "date": "2026-06-13"
+    }
+  ]
+}
